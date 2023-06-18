@@ -1,0 +1,11 @@
+{
+    "pizzas": [{
+        "id": 1,
+        "name": "Pepperoni",
+        "description": "Pizza de Pepperoni"
+    },{
+        "id": 2,
+        "name": "Calabresa",
+        "description":"Pizza de Calabresa"
+    }]
+}
